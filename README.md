@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## I'm Anton Labokha.
+![Profile views](https://gpvc.arturio.dev/TonSharp)
 #### Belarus, Polotsk
 
 I am a first-year *information technology*:computer: *student*:books: **(:heart:PSU one love:heart:)**
