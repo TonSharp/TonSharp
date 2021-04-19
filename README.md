@@ -14,6 +14,4 @@ I am engaged in writing applications on the platform **.NET** using **WPF**:comp
 ## Social media
 
   - [VK](https://vk.com/tonsharp)
-  - [Facebook](https://www.facebook.com/ton.sharp.1)
   - [Telegram](https://t.me/Ton_Sharp)
-  - [Instagram](https://www.instagram.com/t0nsharp/)
