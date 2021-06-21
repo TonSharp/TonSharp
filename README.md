@@ -11,7 +11,7 @@ You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
 
 I am interested in writing applications on the platform **.NET** using **WPF**:computer:. Website development on **ASP.NET CORE**:globe_with_meridians:. And game development on the **Unity**:video_game: engine. In general, everything related to **C#**:smile:
 
-## Languages I use
+## Technologies I use
 
 ![CSharp](https://img.shields.io/badge/-C_Sharp-2b213a?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Unity](https://img.shields.io/badge/-Unity-2b213a?style=for-the-badge&logo=unity)
