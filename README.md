@@ -36,3 +36,5 @@ I am interested in writing applications on the platform **.NET** using **WPF**:c
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2b213a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ton_Sharp)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-2b213a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ton_sharp/)
