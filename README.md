@@ -19,10 +19,6 @@ I am interested in writing applications on the platform **.NET** using **WPF**:c
 ![C++](https://img.shields.io/badge/-C++-2b213a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![UnrealEngine](https://img.shields.io/badge/-Unreal_engine-2b213a?style=for-the-badge&logo=unrealengine)
 
-
-![Python](https://img.shields.io/badge/-Python-2b213a?style=for-the-badge&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/-PyTorch-2b213a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonSharp&layout=compact&theme=synthwave&show_icons=true)
