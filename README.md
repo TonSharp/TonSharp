@@ -4,12 +4,12 @@
 ![Profile views](https://gpvc.arturio.dev/TonSharp)
 #### Belarus, Polotsk
 
-I am a second-year *information technology*:computer: *student*:books: **(:heart:PSU one love:heart:)**
+I'm a second-year *information technology*:computer: *student*:books: **(:heart:PSU one love:heart:)**
 
 You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
 ## What I Do?
 
-I am interested in writing applications on the platform **.NET** using **WPF**:computer:. Website development on **ASP.NET CORE**:globe_with_meridians:. And game development on the **Unity**:video_game: engine. In general, everything related to **C#**:smile:
+I'm interested in writing applications on the platform **.NET** using **WPF**:computer:. And game development on the **Unity**:video_game: engine.
 
 ## Technologies I use
 
