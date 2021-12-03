@@ -7,9 +7,13 @@
 I'm a second-year *information technology*:computer: *student*:books: **(:heart:PSU one love:heart:)**
 
 You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
-## What I Do?
+## What am I doing?
 
 I'm interested in writing applications on the platform **.NET** using **WPF**:computer:. And game development on the **Unity**:video_game: engine.
+
+## Job
+
+At the moment I work at **FuryLion Development** as **Junior Unity Developer** :video_game:
 
 ## Technologies I use
 
@@ -18,13 +22,6 @@ I'm interested in writing applications on the platform **.NET** using **WPF**:co
 
 ![C++](https://img.shields.io/badge/-C++-2b213a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![UnrealEngine](https://img.shields.io/badge/-Unreal_engine-2b213a?style=for-the-badge&logo=unrealengine)
-
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonSharp&layout=compact&theme=synthwave&show_icons=true)
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TonSharp&theme=synthwave&show_icons=true)
 
 ## Social media
 
