@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/TonSharp)
 #### Belarus, Polotsk
 
-I'm a second-year *information technology*:computer: *student*:books: **(:heart:PSU one love:heart:)**
+I'm a second-year *information technology*:computer: *student*:books:
 
 You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
 ## What am I doing?
