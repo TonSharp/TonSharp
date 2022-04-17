@@ -12,7 +12,7 @@ I'm interested in writing applications on the platform **.NET** using **WPF**:co
 
 ## Job
 
-At the moment I work at **FuryLion Development** as **Unity Developer** :video_game:
+At the moment I work at **FuryLion** as **Unity Developer** :video_game:
 
 ## Technologies I use
 
