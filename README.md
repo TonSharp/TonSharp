@@ -27,6 +27,4 @@ At the moment I work at **FuryLion** as **Unity Developer** :video_game:
 [![VK](https://img.shields.io/badge/-VK-2b213a?style=for-the-badge&logo=vk&logoColor=4680C2)](https://m.vk.com/TonSharp)
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2b213a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ton_Sharp)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-2b213a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ton_sharp/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2b213a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/T0nSharp)
