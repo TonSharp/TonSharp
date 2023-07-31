@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ## I'm Anton Labokha.
-![Profile views](https://gpvc.arturio.dev/TonSharp)
 
-I'm a third-year *information technology faculty*:computer: *student*:books:
+I'm a fourth-year *information technology faculty*:computer: *student*:books:
 
 You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
 ## What am I doing?
