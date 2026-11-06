@@ -67,6 +67,15 @@ Commercial releases across mobile, standalone VR, and PC — including performan
 
 I also have experience with **Zenject**; **VContainer** is my current choice for dependency injection.
 
+## 🤖 AI in my workflow
+
+I effectively apply AI in my day-to-day Unity development with **Codex** and **Claude Code**. I use **Unity CLI** and **custom Unity CLI commands** to integrate these tools into my development workflow.
+
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Unity CLI](https://img.shields.io/badge/Unity_CLI-8B5CF6?style=flat-square&logo=unity&logoColor=white)
+![Custom commands](https://img.shields.io/badge/Custom_Commands-0891B2?style=flat-square)
+
 ## 🔎 Beyond Unity
 
 In my spare time, I explore **reverse engineering of Windows binaries**. I'm interested in understanding game entities and memory structures, and building APIs for existing games to support modding.
