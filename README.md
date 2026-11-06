@@ -1,10 +1,15 @@
 <div align="center">
 
+![TonSharp — Unity Developer. An illustrated game world spanning mobile, VR and PC.](assets/banner.png)
+
 # Hi, I'm Anton Labokha 👋
 
 **Unity Developer at Cleverside · Building games with C# since 2021**
 
 Architecture · Performance · Cross-platform development
+
+![Experience: 5+ years](https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-8B5CF6?style=for-the-badge)
+![Company: Cleverside](https://img.shields.io/badge/CURRENTLY_AT-CLEVERSIDE-0891B2?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/t0nsharp/)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/T0nSharp)
@@ -18,13 +23,29 @@ I'm a Unity developer with **5+ years of commercial experience**, currently work
 
 My main focus is Unity, with a broader interest in **C# and .NET** beyond game development.
 
-### What I work on
+### What I bring to a project
 
-- **Architecture** — designing maintainable systems with clear responsibilities and dependencies.
-- **Performance** — finding bottlenecks and optimizing CPU, GPU, and memory usage.
-- **UI** — building performant interfaces with careful attention to batching and draw calls.
-- **Integrations** — connecting third-party SDKs and writing wrappers that fit the project's architecture.
-- **Cross-platform releases** — shipping commercial projects for **Android, iOS, Meta Quest 3, and PC**, including performance optimization for standalone VR.
+![Four focus areas: maintainable game architecture, profiling and optimization, efficient UI with careful batching, and third-party SDK integrations with C# wrappers.](assets/expertise.svg)
+
+### Platforms I've shipped on
+
+```mermaid
+flowchart LR
+    U["Unity / C#"] --> A["Android"]
+    U --> I["iOS"]
+    U --> Q["Meta Quest 3"]
+    U --> P["PC"]
+    classDef core fill:#6d28d9,stroke:#a78bfa,color:#fff,stroke-width:2px
+    classDef mobile fill:#153d36,stroke:#34d399,color:#d1fae5
+    classDef vr fill:#15344d,stroke:#22d3ee,color:#cffafe
+    classDef desktop fill:#432b43,stroke:#f0abfc,color:#fae8ff
+    class U core
+    class A,I mobile
+    class Q vr
+    class P desktop
+```
+
+Commercial releases across mobile, standalone VR, and PC — including performance optimization for **Meta Quest 3**.
 
 ## 🛠️ My toolkit
 
@@ -32,11 +53,17 @@ My main focus is Unity, with a broader interest in **C# and .NET** beyond game d
 ![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-| Area | Tools |
-| :--- | :--- |
-| Async & reactive programming | UniTask · R3 |
-| Dependency injection & messaging | VContainer · MessagePipe |
-| Assets & animation | Addressables · DOTween |
+**Async & reactive**  
+![UniTask](https://img.shields.io/badge/UniTask-06B6D4?style=flat-square)
+![R3](https://img.shields.io/badge/R3-0891B2?style=flat-square)
+
+**Dependency injection & messaging**  
+![VContainer](https://img.shields.io/badge/VContainer-8B5CF6?style=flat-square)
+![MessagePipe](https://img.shields.io/badge/MessagePipe-A78BFA?style=flat-square&labelColor=1E293B)
+
+**Assets & animation**  
+![Addressables](https://img.shields.io/badge/Addressables-F59E0B?style=flat-square)
+![DOTween](https://img.shields.io/badge/DOTween-F97316?style=flat-square)
 
 I also have experience with **Zenject**; **VContainer** is my current choice for dependency injection.
 
@@ -44,7 +71,9 @@ I also have experience with **Zenject**; **VContainer** is my current choice for
 
 In my spare time, I explore **reverse engineering of Windows binaries**. I'm interested in understanding game entities and memory structures, and building APIs for existing games to support modding.
 
-**Tools:** IDA Pro · x64dbg · Cheat Engine
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-F43F5E?style=flat-square)
+![x64dbg](https://img.shields.io/badge/x64dbg-E11D48?style=flat-square)
+![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-BE185D?style=flat-square)
 
 ## 🎓 Education
 

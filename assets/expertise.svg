@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Architecture, performance, UI and SDK integrations</title>
+  <desc id="desc">Four areas of Unity development: maintainable systems, profiling and optimization, efficient UI, and third-party SDK wrappers.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15162e"/><stop offset="1" stop-color="#0d1320"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <g fill="url(#bg)" stroke="#30364e">
+    <rect x="8" y="8" width="580" height="194" rx="20"/>
+    <rect x="612" y="8" width="580" height="194" rx="20"/>
+    <rect x="8" y="218" width="580" height="194" rx="20"/>
+    <rect x="612" y="218" width="580" height="194" rx="20"/>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 55h26v24H48z M94 55h26v24H94z M71 98h26v24H71z M61 79v9h46v-9 M84 88v10"/>
+    <path d="M655 108h89 M661 93l19-23 20 12 31-35 M715 47h16v16"/>
+    <rect x="48" y="260" width="72" height="61" rx="7"/><path d="M48 278h72 M60 290h20v20H60z M90 293h18 M90 304h13"/>
+    <path d="M655 275l-14 15 14 15 M722 275l14 15-14 15 M683 266l-10 48 M695 280h15v20h-15z"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#f1f5ff" font-size="26" font-weight="700">
+      <text x="150" y="66">Architecture</text><text x="754" y="66">Performance</text>
+      <text x="150" y="276">Efficient UI</text><text x="754" y="276">SDK Integrations</text>
+    </g>
+    <g fill="#aebbd4" font-size="20">
+      <text x="150" y="102">Maintainable game systems</text><text x="150" y="133">Clear boundaries &amp; dependencies</text>
+      <text x="754" y="102">Profiling &amp; optimization</text><text x="754" y="133">Mobile, standalone VR &amp; PC</text>
+      <text x="150" y="312">Batch-conscious interfaces</text><text x="150" y="343">Careful control of draw calls</text>
+      <text x="754" y="312">Third-party services</text><text x="754" y="343">Project-friendly C# wrappers</text>
+    </g>
+    <g fill="#8b9bb9" font-size="12" letter-spacing="3">
+      <text x="150" y="172">DESIGN</text><text x="754" y="172">OPTIMIZE</text>
+      <text x="150" y="382">BUILD</text><text x="754" y="382">CONNECT</text>
+    </g>
+  </g>
+</svg>
