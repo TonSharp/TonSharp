@@ -1,29 +1,57 @@
-### Hi there 👋
+<div align="center">
 
-## I'm Anton Labokha.
+# Hi, I'm Anton Labokha 👋
 
-I'm a fourth-year *information technology faculty*:computer: *student*:books:
+**Unity Developer at Cleverside · Building games with C# since 2021**
 
-You can contact me at aospextented@gmail.com or t0nsharp@yandex.by
-## What am I doing?
+Architecture · Performance · Cross-platform development
 
-I'm interested in writing applications on the platform **.NET** using **WPF**:computer:. And game development on the **Unity**:video_game: engine.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/t0nsharp/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/T0nSharp)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:aospextented@gmail.com)
 
-## Job
+</div>
 
-At the moment I work at **FuryLion** as **Unity Developer** :video_game:
+## 🎮 About me
 
-## Technologies I use
+I'm a Unity developer with **5+ years of commercial experience**, currently working at **Cleverside**. I design game architecture and optimize games for the hardware they run on — from mobile devices to standalone VR and PC.
 
-![CSharp](https://img.shields.io/badge/-C_Sharp-2b213a?style=for-the-badge&logo=csharp&logoColor=239120)
-![Unity](https://img.shields.io/badge/-Unity-2b213a?style=for-the-badge&logo=unity)
+My main focus is Unity, with a broader interest in **C# and .NET** beyond game development.
 
-![C++](https://img.shields.io/badge/-C++-2b213a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![UnrealEngine](https://img.shields.io/badge/-Unreal_engine-2b213a?style=for-the-badge&logo=unrealengine)
+### What I work on
 
-## Social media
+- **Architecture** — designing maintainable systems with clear responsibilities and dependencies.
+- **Performance** — finding bottlenecks and optimizing CPU, GPU, and memory usage.
+- **UI** — building performant interfaces with careful attention to batching and draw calls.
+- **Integrations** — connecting third-party SDKs and writing wrappers that fit the project's architecture.
+- **Cross-platform releases** — shipping commercial projects for **Android, iOS, Meta Quest 3, and PC**, including performance optimization for standalone VR.
 
-[![VK](https://img.shields.io/badge/-VK-2b213a?style=for-the-badge&logo=vk&logoColor=4680C2)](https://m.vk.com/TonSharp)
+## 🛠️ My toolkit
 
+![Unity](https://img.shields.io/badge/Unity-18181B?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2b213a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/T0nSharp)
+| Area | Tools |
+| :--- | :--- |
+| Async & reactive programming | UniTask · R3 |
+| Dependency injection & messaging | VContainer · MessagePipe |
+| Assets & animation | Addressables · DOTween |
+
+I also have experience with **Zenject**; **VContainer** is my current choice for dependency injection.
+
+## 🔎 Beyond Unity
+
+In my spare time, I explore **reverse engineering of Windows binaries**. I'm interested in understanding game entities and memory structures, and building APIs for existing games to support modding.
+
+**Tools:** IDA Pro · x64dbg · Cheat Engine
+
+## 🎓 Education
+
+**Polotsk State University** · Faculty of Information Technology  
+Bachelor's degree in Information Technology Software · **Graduated in 2024**
+
+## 📬 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/t0nsharp/) · [Telegram](https://t.me/T0nSharp)  
+Email: [aospextented@gmail.com](mailto:aospextented@gmail.com) · [t0nsharp@yandex.by](mailto:t0nsharp@yandex.by)
